@@ -6,7 +6,7 @@ import 'package:archive/archive.dart';
 import 'dart:math' show min;
 
 class AIService {
-  static final String _apiKey = 'AQ.Ab8RN6JtI4g91Tz5CkK-fEtKeCdFXq_Pwsk1XzIE8zW4axytIQ';
+ // static final String _apiKey = '<thay bang api cua ban>';
 
   static final GenerativeModel _model = GenerativeModel(
     model: 'gemini-flash-latest',
